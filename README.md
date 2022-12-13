@@ -4,6 +4,7 @@ Project for creating an image recognition model using convolutional neural netwo
 
 Database: 1000 high resolution petri dish images consisting of 5 different bacteria species.
 
-Next steps: Masking and segmentation to isolate individual bacteria colonies. 
+We were not able to finish fully within the 2 weeks project timeline but next steps would be masking and segmentation to isolate individual bacteria colonies. 
 
+Google Cloud platform was used for computational load.
 
