@@ -11,4 +11,7 @@ The created model predicts bacterial species with 95% to 97.5% accuracy. Next st
 
 The Google Cloud Platform was used for the project because of the computational load.
 
-My contribution: Grid searching different parameters. Testing and comparing different models and fine tuning the best model. (Xception, VGG16, Densenet169, EfficientNetB7, ResNet50 are tested) Record, analyze and visualize metrics for presentation.
+My contributions: 
+* Grid searching different parameters. 
+* Testing and comparing different models and fine tuning the best model. (Xception, VGG16, Densenet169, EfficientNetB7, ResNet50 are tested) 
+* Recording, analyzing and visualizing metrics for presentation.
