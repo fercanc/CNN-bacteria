@@ -1,5 +1,6 @@
+LE WAGON DATA SCIENCE BOOTCAMP FINAL PROJECT
 
-Project for creating an image recognition model using transfer learning and convolutional neural networks to classify different bacteria species from petri dish images. This will save time and money when used in the clinical diagnostic process. The current diagnostic process is expensive, time-consuming, and labor-intensive.
+With a team of 4 we created an image recognition model using transfer learning and convolutional neural networks to classify different bacteria species from petri dish images. This will save time and money when used in the clinical diagnostic process. The current diagnostic process is expensive, time-consuming, and labor-intensive.
 
 Database: 
 
